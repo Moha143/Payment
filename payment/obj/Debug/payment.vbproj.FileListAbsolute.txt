@@ -1,0 +1,10 @@
+C:\Users\M_Qadar\Desktop\payment\payment\bin\Debug\payment.exe.config
+C:\Users\M_Qadar\Desktop\payment\payment\bin\Debug\payment.exe
+C:\Users\M_Qadar\Desktop\payment\payment\bin\Debug\payment.pdb
+C:\Users\M_Qadar\Desktop\payment\payment\bin\Debug\payment.xml
+C:\Users\M_Qadar\Desktop\payment\payment\obj\Debug\payment.Form1.resources
+C:\Users\M_Qadar\Desktop\payment\payment\obj\Debug\payment.Resources.resources
+C:\Users\M_Qadar\Desktop\payment\payment\obj\Debug\payment.vbproj.GenerateResource.Cache
+C:\Users\M_Qadar\Desktop\payment\payment\obj\Debug\payment.exe
+C:\Users\M_Qadar\Desktop\payment\payment\obj\Debug\payment.xml
+C:\Users\M_Qadar\Desktop\payment\payment\obj\Debug\payment.pdb
